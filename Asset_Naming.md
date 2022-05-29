@@ -37,7 +37,7 @@
     1. prefix(asset type) - root(asset name)
         - ![image](https://user-images.githubusercontent.com/20883553/170871618-e2ab2ce8-4fd2-4965-8538-45a5ea2a6653.png)
     
-    2. prefix(namespace) - suffix 
+    2. prefix(namespace) - suffix or root(asset name) - suffix
         - ![image](https://user-images.githubusercontent.com/20883553/170871608-c48d537c-05bf-4400-8637-2cfb2141a148.png)
 
     3. prefix - root - suffix
