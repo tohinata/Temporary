@@ -1,0 +1,1 @@
+[아이콘에 제대로 된 이름 붙여주기] (https://brunch.co.kr/@pizzakim/26)
